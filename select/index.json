@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "TOP",
+  "base_artist": "G-k.i.d",
+  "createdAt": "2026-02-10T04:16:26.728206Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Drop Top",
+      "artist": "Keith Urban feat. Kassi Ashton",
+      "has_synced": true,
+      "path": "select/01_Drop_Top_Keith_Urban_feat._Kassi_Ashton.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Drop Top",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/02_Drop_Top_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Drop Top",
+      "artist": "Cole Taylor",
+      "has_synced": false,
+      "path": "select/03_Drop_Top_Cole_Taylor.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pop a Top",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/04_Pop_a_Top_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Pop a Top",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/05_Pop_a_Top_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pop a Top",
+      "artist": "Jim Ed Brown",
+      "has_synced": false,
+      "path": "select/06_Pop_a_Top_Jim_Ed_Brown.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Pop a Top",
+      "artist": "Jim Ed Brown & The Browns",
+      "has_synced": false,
+      "path": "select/07_Pop_a_Top_Jim_Ed_Brown_&_The_Browns.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sitting On Top of the World",
+      "artist": "Mississippi Sheiks",
+      "has_synced": false,
+      "path": "select/08_Sitting_On_Top_of_the_World_Mississippi_Sheiks.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tar Top",
+      "artist": "Alabama",
+      "has_synced": false,
+      "path": "select/09_Tar_Top_Alabama.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tennessee Flat Top Box",
+      "artist": "Rosanne Cash",
+      "has_synced": true,
+      "path": "select/10_Tennessee_Flat_Top_Box_Rosanne_Cash.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tennessee Flat Top Box (Album Version)",
+      "artist": "Rosanne Cash",
+      "has_synced": true,
+      "path": "select/11_Tennessee_Flat_Top_Box_(Album_Version)_Rosanne_Cash.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tennessee Flat Top Box (Album Version)",
+      "artist": "Rosanne Cash",
+      "has_synced": true,
+      "path": "select/12_Tennessee_Flat_Top_Box_(Album_Version)_Rosanne_Cash.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tennessee Flat-Top Box",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/13_Tennessee_Flat-Top_Box_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Tennessee Flat-Top Box (Album Version)",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/14_Tennessee_Flat-Top_Box_(Album_Version)_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "On Top",
+      "artist": "The Killers",
+      "has_synced": true,
+      "path": "select/15_On_Top_The_Killers.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Top Secret",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/16_Top_Secret_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Top Secret",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/17_Top_Secret_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "O Top",
+      "artist": "Rohff",
+      "has_synced": true,
+      "path": "select/18_O_Top_Rohff.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TOP (feat. Eric.B.Jr.)",
+      "artist": "G-k.i.d",
+      "has_synced": false,
+      "path": "select/pl_01_TOP_(feat._Eric.B.Jr.)_G-k.i.d.txt"
+    }
+  ]
+}
